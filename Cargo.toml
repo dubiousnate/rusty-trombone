@@ -1,0 +1,8 @@
+[package]
+name = "rusty-trombone"
+version = "0.1.0"
+authors = ["Dubious Nate <dubious.nate@gmail.com>"]
+include = ["sound.wav"]
+
+[dependencies]
+rodio = "0.5.2"

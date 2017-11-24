@@ -1,0 +1,1 @@
+Quick example of playing audio in Rust with Rodio.
